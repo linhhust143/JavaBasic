@@ -1,0 +1,2 @@
+public class JB04 {
+}
